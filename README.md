@@ -42,14 +42,37 @@ A web application has a certain structure, and we must learn the parts of that s
 
 ![A web application][web-app-diagram]
 
-Weeks 1 and 2:
-Week 3:
-Winter Break:
-Week 4:
-Week 5:
-Week 6:
-Week 7:
-...
+##### Weeks 1 and 2
+
+- Introduction to Programming (applies to the whole thing)
+- a simple *Database*  
+
+##### Week 3
+
+- the *Network Interface* and *HTTP*
+- a simple *Application Framework*
+
+##### Winter Break
+
+- *Webpage HTML & CSS*
+
+##### Weeks 4 and 5
+
+- the *Browser*
+- *Webpage Javascript*
+
+##### Week 7
+
+- a complex *Database*
+
+##### Weeks 8 and 9
+
+- the *Server*, *Middleware* and its interface
+- a full-featured *Web Application*
+
+##### Week 11
+
+- the *Client* as a Single Page Application (SPA)
 
 ## "Owning" the Experience
 
@@ -129,14 +152,15 @@ Modeling can be a very difficult process, and the outcome of modeling is called 
 ### Describe the parts of a web application and the path our class will take to learn how to build them.
 
 1. front-end or client-side: the interface for users
-2. back-end or server-side: where the data lives
-3. network: the structure that combines clients and servers, often the Internet!
-4. web-server -- handles incoming requests from a network and routes them to application servers or middleware
-5. application-middleware -- some other program that may support the handling of requests within a server
-6. application-server -- a program that stores and retrieves information according to some rules or "business logic", often a "web application framework"
-7. framework -- a type of program that allows developers to ease the creation of applications by taking care of basic operations and common needs
-8. database -- a piece of saftware specifically focused on storing data -- lives with the server)
-9. browser -- a program that allows clients to fashion requests to servers and display their responses
+1. back-end or server-side: where the data lives
+1. network: the structure that combines clients and servers, ften the Internet!
+1. web-server -- handles incoming requests from a network and routes them to application servers or middleware
+1. application-middleware -- some other program that may support the handling of requests within a server
+1. application-server -- a program that stores and retrieves information according to some rules or "business logic", often a "web application framework"
+1. **library** -- a collection of prewritten code
+1. framework -- a type of program that allows developers to ease the creation of applications by taking care of basic operations and common needs
+1. database -- a piece of saftware specifically focused on storing data -- lives with the server)
+1. browser -- a program that allows clients to fashion requests to servers and display their responses
 
 Our class will learn how to build programs with Ruby, and then learn about servers and build one using a Ruby framework called Sinatra. Then we will learn about how to write interfaces for web browsers using HTML, CSS and JavaScript. Finally we will connect the two together using sophisticated networking techniques and complex interactions. To make best use of these, we will learn a more complete framework known as Rails, and a powerful SQL database.
 
@@ -147,6 +171,7 @@ Our class will learn how to build programs with Ruby, and then learn about serve
 3. talk to instructors / producers when necessary
 4. **ALWAYS ask questions or ask for something when I need it**
 5. check for understanding using lesson objectives
+1. ** the virtue of handwritten notes**
 
 ### Remember to keep a list of (and have access to):
 
@@ -169,6 +194,6 @@ Our class will learn how to build programs with Ruby, and then learn about serve
 <!-- Links -->
 
 [syllabus]:              https://github.com/ga-students/godot#course-outline
-[web-app-diagram]:       https://...
-[encapsulation-diagram]: https://...
-[modeling-diagram]:      https://...
+[web-app-diagram]:       img/webapplicationstructure.svg
+[encapsulation-diagram]: img/encapsulationdiagram.svg
+[modeling-diagram]:      img/modelingdiagram.svg
