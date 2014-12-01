@@ -194,6 +194,6 @@ Our class will learn how to build programs with Ruby, and then learn about serve
 <!-- Links -->
 
 [syllabus]:              https://github.com/ga-students/godot#course-outline
-[web-app-diagram]:       img/webapplicationstructure.svg
-[encapsulation-diagram]: img/encapsulationdiagram.svg
-[modeling-diagram]:      img/modelingdiagram.svg
+[web-app-diagram]:       img/webapplicationstructure.jpg
+[encapsulation-diagram]: img/encapsulationdiagram.jpg
+[modeling-diagram]:      img/modelingdiagram.jpg
