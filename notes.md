@@ -54,3 +54,5 @@ Our class will learn how to build programs with Ruby, and then learn about serve
 - abstraction: managing complexity when solving a problem or approaching a complex situation
 - encapsulation: breaking a problem into sub-problems, and then hiding each problems' solution behind an interface that we can access
 - modeling: removing complexity from a problem, and re-imagining what the actual problem is
+
+[syllabus]: https://github.com/ga-students/godot/blob/master/README.md
